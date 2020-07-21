@@ -1,4 +1,4 @@
-<p align="center"> Laundry Management System </p>
+## Laundry Management System 
 
 
 ## About Laundry Management System
